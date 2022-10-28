@@ -1,0 +1,116 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+*,*::before,*::after{
+    box-sizing: border-box;
+}
+#hero1 h1{ 
+    margin-bottom: 50px;
+    font-size:38px;
+}
+#hero1 h2{
+    font-size: 32px;
+}
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
+section{
+    padding: 30px 0;
+}
+span{
+    color: #F67329;
+}
+header .nav-link{
+    color: black;
+    margin-right: 50px;
+    font-size: 20px;
+    
+    
+}
+ 
+ 
+.first-btn{
+    background: #F67329; 
+    border: none;
+    height: 50px;
+    width: 200px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: white;
+    
+}.second-btn{
+    border-radius: 10px;
+    height: 50px;
+    width: 200px;
+    border: 1px solid #F67329;
+    padding: 5px 10px;
+    color: black;
+
+}
+
+/* .contact-left{
+    height: 100%;
+    background-color: #F67329;
+
+}
+
+.contact-left{
+    background-color: #F67329;
+    color: #fff;
+    height: auto;
+    padding-top: 30%;
+    border: none;
+    width: fit-content;
+}    */
+#contact-us .contact-right{
+    background-color: #F67329;
+    color: #fff;
+}
+
+#contact-us .contact-right ul{
+    list-style: none;
+}
+header p{
+    color: #F67329;
+}
+ #hero1,#hero3,#hero5,#contact-us{
+     background: #D4D4D4;
+
+
+ }
+ #hero2,#hero4,#hero6{
+    
+    background: #fff;
+}
+
+#hero h4{
+    margin-top: 10px;
+    
+}
+#hero1 p{
+    font-size: 24px;
+
+}
+/* #contact-us ol{
+    padding-top: 50px;
+    font-size: 24px;
+    margin-left: 30px;
+} */
+#contact-us ul{
+    font-size: 20px;
+    /* margin-top: 25px; */
+    /* padding: 20px; */
+
+    
+}
+
+#contact-us img{
+    padding: 20px;
+    margin-left: 20px;
+
+}
+#contact-us .contact{
+    font-size: 36px;
+}

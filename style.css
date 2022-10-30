@@ -27,7 +27,7 @@ h3{
 }
 h2{
     text-align: center;
-    margin-top: 60px !important; 
+    margin-top: 30px !important; 
       
     
 }
@@ -69,6 +69,7 @@ header .nav-link{
 
 }
 
+
 /* .contact-left{
     height: 100%;
     background-color: #F67329;
@@ -99,6 +100,8 @@ header .nav-link{
 #contact-us .contact-right ul{
     list-style: none;
 }
+
+
 header p{
     color: #F67329;
 }
@@ -120,6 +123,9 @@ header p{
     font-size: 24px;
 
 }
+/* #hero4 img{
+    margin-bottom: 10px;
+} */
 /* #contact-us ol{
     padding-top: 50px;
     font-size: 24px;
@@ -127,10 +133,9 @@ header p{
 } */
 #contact-us ul{
     font-size: 16px;
-    /* margin-top: 25px; */
-    /* padding: 20px; */
-
-    
+}
+.pb-4{
+    margin-top: 30px;
 }
 
 #contact-us img{
@@ -143,6 +148,9 @@ header p{
 }
 #contact-us .policy{
     font-size: 16px;
+}
+#contact-us .new a{
+    color: #000;
 }
 /* #contact-us .new{
     background: #fff;
@@ -167,3 +175,4 @@ header img{
 
     
 }
+

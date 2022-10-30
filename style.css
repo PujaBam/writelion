@@ -135,7 +135,7 @@ header p{
     font-size: 16px;
 }
 .pb-4{
-    margin-top: 30px;
+    margin: 20px;
 }
 
 #contact-us img{
@@ -163,9 +163,7 @@ header p{
 #contact-us .p{
     font-size: 24px;
 } 
-header img{
-    margin-right: 50px;
-}
+
 .icons ul li{
     margin: 10px;
     font-size: 25px;

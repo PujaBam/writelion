@@ -8,9 +8,13 @@
 span{
     color: #F67329;
 }
+#hero1{
+    height: 100%;
+}
 #hero1 h1{ 
     margin-bottom: 50px;
     font-size:38px;
+    
 }
 #hero1 h2{
     font-size: 32px;
@@ -26,7 +30,7 @@ h3{
     
 }
 h2{
-    text-align: center;
+    /* text-align: center; */
     margin-top: 30px !important; 
       
     
@@ -169,8 +173,18 @@ header p{
     font-size: 25px;
     margin-top: 25px;
     color: #F67329;
-    
+       
+}
+#hero2,#hero3,#hero4,#hero5,#hero6 h2{
+    text-align: center;
 
+}
+.lfooter{
+    background:#F67329;
+    color: #fff;
+    height: 50px;
     
 }
-
+.lfooter p{
+    text-align: center;
+}
